@@ -34,8 +34,8 @@ set(EXTERNAL_DEPENDS_LIB
 ##  Be Carefull editing below this line ##
 ##########################################
 
-## Compile as C++11, supported in ROS Kinetic and newer
-add_compile_options(-std=c++11)
+## Compile as C++14
+add_compile_options(-std=c++14)
 
 
 
